@@ -1,0 +1,41 @@
+.general_div{
+    color: white;
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+    font-size: 40px;
+}
+
+.image_top{
+    background-color: #9191fb;
+    width: 50%;
+    padding-top: 80px;
+    height: 120px;
+}
+.text_top{
+    background-color: #3c9fc6;
+    width: 50%;
+    padding-top: 80px;
+    height: 120px;
+}
+.image_bottom{
+    background-color: #3c9fc6;
+    height: 120px;
+    padding-top: 80px;
+}
+.text_bottom{
+    background-color: #ade4f6;
+    height: 120px;
+    padding-top: 80px;
+}
+
+.float_block{
+    float: right;
+}
+.header{
+    color: black;
+}
+
+.flex_conteiner{
+    display: flex; 
+}
